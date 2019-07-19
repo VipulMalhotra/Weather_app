@@ -1,0 +1,29 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vipul Malhotra",
+  "license": "ISC",
+  "keywords": [
+    "https://github.com/VipulMalhotra/Weather_app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VipulMalhotra/Weather_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VipulMalhotra/Weather_app/issues"
+  },
+  "homepage": "https://github.com/VipulMalhotra/Weather_app#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+    
+  }
+}
